@@ -15,6 +15,10 @@ jupyter notebook
 4. Bert `(updating)` 
 5. (*maybe have one GPT)
 
+## Dataset
+1. the dataset for training is provided `/dataset`
+2.  glove word embedding(glove.twitter.27B/200 dimension) should be downloaded from [here](https://nlp.stanford.edu/projects/glove/)
+
 ## issus may occur：
 1. while import seaborn:
 DLL load failed: The specified procedure could not be found.
