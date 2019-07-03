@@ -10,8 +10,8 @@ jupyter notebook
 
 ## Model:
 1. Bidirectional GRU + glove `updated`
-2. BiGRU + glove + attention `(updating)`
-3. ELMo embedding model`(updating)`
+2. BiGRU + glove + attention `updated`
+3. ELMo embedding model`updated`
 4. Bert `(updating)` 
 5. (*maybe have one GPT)
 
